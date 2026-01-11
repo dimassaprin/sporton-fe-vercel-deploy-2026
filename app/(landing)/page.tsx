@@ -1,6 +1,6 @@
-import CategoriesSection from "./components/layouts/home/categories";
-import HeroSection from "./components/layouts/home/hero";
-import ProductSection from "./components/layouts/home/products";
+import CategoriesSection from "./components/home/categories";
+import HeroSection from "./components/home/hero";
+import ProductSection from "./components/home/products";
 
 export default function Home() {
   return (
