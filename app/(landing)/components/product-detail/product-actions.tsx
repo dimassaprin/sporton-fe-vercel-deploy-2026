@@ -44,9 +44,7 @@ const handleCheckout = async () => {
 }
 };
 
-  //const handleCheckout = () => {
-    //push("/checkout");
-  //};
+
 
   return (
     <div className="flex gap-5">
